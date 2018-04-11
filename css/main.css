@@ -106,11 +106,17 @@ textarea {
 html {
     font-family: 'Cera PRO', sans-serif;
 }
+p,
+h1 {
+    width: 480px;
+}
+
+h1 {
+    margin: 100px auto 0;
+}
 
 p {
-    width: 480px;
-    margin: 100px auto;
-    color: red;
+    margin: 20px auto 0;
 }
 
 /* ==========================================================================
