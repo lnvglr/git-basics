@@ -98,20 +98,14 @@ textarea {
    ========================================================================== */
 
 
+@font-face {
+    font-family: 'Cera PRO';
+    src: url('../fonts/TypeMates - CeraPRO-Regular.otf');
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+html {
+    font-family: 'Cera PRO', sans-serif;
+}
 
 /* ==========================================================================
    Helper classes
